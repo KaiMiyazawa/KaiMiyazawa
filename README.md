@@ -14,7 +14,7 @@
 - Twitter: [@ronge_nekozuki](https://twitter.com/ronge_nekozuki)
 - AtCoder: [ronge222](https://atcoder.jp/users/ronge222)
 - kaggle:  [KaiMiyazawa](https://www.kaggle.com/kaimiyazawa)
-- W3Shools:[roge_mega](https://leetcode.com/roge_mega/)
+- LeetCode:[roge_mega](https://leetcode.com/roge_mega/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiMiyazawa&show_icons=true&theme=merko)　　
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiMiyazawa&hide_progress=true)
