@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ML, CS, Financial Engneering.
+- 🌱 I’m currently learning ML, CS, NLP, Financial Engneering.
 - 📫 How to reach me: miyazawa.kai.nekochan222@gmail.com
 - Twitter: [@ronge_nekozuki](https://twitter.com/ronge_nekozuki)
 - AtCoder: [ronge222](https://atcoder.jp/users/ronge222)
