@@ -1,5 +1,8 @@
-### Hi there 👋
+<div style="text-align: center;">
+<h1> Kai Miyazawa </h1>
+</div>
 
+### Hi there 👋
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -8,7 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🎓 I'm a student at 42Tokyo.
+- 🏫 I'm a member of the Language Information Science Laboratory at the university.
 - 🌱 I’m currently learning ML, CS, NLP, Financial Engneering.
 - 📫 How to reach me: miyazawa.kai.nekochan222@gmail.com
 - Twitter: [@ronge_nekozuki](https://twitter.com/ronge_nekozuki)

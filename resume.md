@@ -1,5 +1,5 @@
 # Kai Miyazawa's resume
 
-今度ちゃんと編集する
+日本語：[resume_jp.md](./resume_ja.md)
 
-https://www.dreamnews.jp/press/0000299920/
+developing...
