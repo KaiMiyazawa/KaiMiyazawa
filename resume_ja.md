@@ -176,7 +176,7 @@
 
 #### 2024年 1月
 <div>
-　G検定 取得
+　G検定 取得 <a href="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/A-197_3142534800.pdf">合格証</a>
 </div>
 
 #### 2024年 2月
