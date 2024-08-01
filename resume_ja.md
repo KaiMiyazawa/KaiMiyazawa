@@ -126,77 +126,77 @@
 <!--## 経歴詳細-->
 
 #### 2003年 8月 23日
-<div class="indent">
+<div>
 　誕生
 </div>
 
 #### 2019年 4月
-<div class="indent">
+<div>
 　北海道旭川東高校 入学<br>
 　高校では図書委員長を務めました　懐かしい
 </div>
 
 #### 2021年 2月
-<div class="indent">
+<div>
 　実用英語技能検定２級 取得
 </div>
 
 #### 2022年 4月
-<div class="indent">
+<div>
 　早稲田大学 人間科学部 人間情報科学科 入学
 </div>
 
 #### 2023年 2月
-<div class="indent">
+<div>
 　42Tokyoの入学試験 Piscineを受験
 </div>
 
 #### 2023年 4月
-<div class="indent">
+<div>
 　普通自動車免許 取得
 </div>
 
 #### 2023年 8月
-<div class="indent">
+<div>
 　42Tokyo 入学<br>
 　情報系の勉強をするの大学サークルを設立
 </div>
 
 #### 2023年 9月
-<div class="indent">
+<div>
 　早稲田大学 高度授業TA (アルバイト) 開始<br>
 　　　2023年度秋学期 DL2<br>
 　　　2024年度春学期 DL3 (Python)<br>
 </div>
 
 #### 2023年 12月
-<div class="indent">
+<div>
 　42Tokyoの課題 minishellをクリア <a href="https://github.com/KaiMiyazawa/42_minishell">log</a>
 </div>
 
 #### 2024年 1月
-<div class="indent">
+<div>
 　G検定 取得
 </div>
 
 #### 2024年 2月
-<div class="indent">
+<div>
 　中型二輪免許を合宿で教習<br>
 　日本で一番厳しい教習所だったらしく、2週間外出禁止に苦しむ
 </div>
 
 #### 2024年 3月5日
-<div class="indent">
+<div>
 　普通自動二輪免許(中型二輪) 取得
 </div>
 
 #### 2024年 4月1日
-<div class="indent">
+<div>
 　早稲田大学 人間科学部 人間情報科学科 言語情報科学研究室 入室
 </div>
 
 #### 2024年 4月 〜 7月
-<div class="indent">
+<div>
 　東大松尾研公開授業 <a href="https://deeplearning.jp/lectures/dlb2024/">Deep Learning基礎講座</a> 受講<br>
 　(8月1日、修了通知をいただきました)<br>
 　東大松尾研公開授業 <a href="https://deeplearning.jp/lectures/dlb2024/">GCI 2024 Summer</a> 受講<br>
@@ -204,24 +204,24 @@
 </div>
 
 #### 2024年 5月24日 〜 5月26日
-<div class="indent">
+<div>
 　「SMART SCAPE CUP Hackathon Battle」 (42Tokyoのハッカソンイベント)に参加<br>
 　準優勝でした <a href="https://github.com/KaiMiyazawa/blokus_solver">log</a>
 </div>
 
 #### 2024年 7月1日
-<div class="indent">
+<div>
 　設立した大学サークルが大学公認になる
 </div>
 
 #### 2024年 7月26日 〜 7月28日
-<div class="indent">
+<div>
 　「42時間耐久 "Tuning the backend" Contest 2024」 (42Tokyoのハッカソンイベント)に参加<br>
 　8位でした <a href="https://github.com/KaiMiyazawa/42Tokyo-Tuning-2407">log</a>
 </div>
 
 #### 2024年 8月
-<div class="indent">
+<div>
 　42Tokyoの入学試験 Piscineの試験官的な役割のLife Saverを務める
 </div>
 
