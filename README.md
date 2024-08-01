@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <h1> Kai Miyazawa </h1>
 </div>
 
