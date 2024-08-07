@@ -108,7 +108,7 @@
 <!--## 資格-->
 <li> 実用英語技能検定２級（2021年2月取得）</li>
 <li> 普通自動車免許（2023年4月取得）</li>
-<li> G検定（2024年1月取得）</li>
+<li> G検定（2024年1月取得）<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/aEhCVjVwRjRUT1dQVU9BRHVQazNqUT09">link</a></li>
 <li> 普通自動二輪免許（2024年3月取得）</li>
 
 <div id="hobby">
