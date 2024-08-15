@@ -198,7 +198,7 @@
 #### 2024年 4月 〜 7月
 <div>
 　東大松尾研公開授業 <a href="https://deeplearning.jp/lectures/dlb2024/">Deep Learning基礎講座</a> 受講<br>
-　(8月1日、修了通知をいただきました)<br>
+　(8月1日、修了通知をいただきました) <a href="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/DL%E5%9F%BA%E7%A4%8E_%E4%BF%AE%E4%BA%86%E8%A8%BC.pdf">修了証</a> <br>
 　東大松尾研公開授業 <a href="https://deeplearning.jp/lectures/dlb2024/">GCI 2024 Summer</a> 受講<br>
 　<!--(9月??日、修了通知をいただきました)-->
 </div>
