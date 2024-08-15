@@ -225,6 +225,11 @@
 　42Tokyoの入学試験 Piscineの試験官的な役割のLife Saverを務める
 </div>
 
+#### 2024年 8月
+<div>
+　<a href="https://reazon.jp/">REAZON HOLDINGS</a>さんの3daysインターンに参加しました。<br>
+　ハッカソン形式で、簡単なデモを作りました。<a href="https://github.com/KaiMiyazawa/DIS24-Team-B">log</a>
+</div>
 
 ---
 <div align="center" center;">
