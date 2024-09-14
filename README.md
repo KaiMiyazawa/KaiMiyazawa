@@ -15,11 +15,11 @@
 - 🏫 I'm a member of the Language Information Science Laboratory at the university.
 - 🌱 I’m currently learning ML, CS, NLP, Financial Engneering.
 - 📫 How to reach me: miyazawa.kai.nekochan222@gmail.com
-- Twitter: [@ronge_nekozuki](https://twitter.com/ronge_nekozuki)
-- AtCoder: [ronge222](https://atcoder.jp/users/ronge222)
-- kaggle:  [KaiMiyazawa](https://www.kaggle.com/kaimiyazawa)
-- LeetCode:[roge_mega](https://leetcode.com/roge_mega/)
-- resume:  [resume.md](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume.md)
+- Twitter:  [@ronge_nekozuki](https://twitter.com/ronge_nekozuki)
+- AtCoder:  [ronge222](https://atcoder.jp/users/ronge222)
+- kaggle:   [KaiMiyazawa](https://www.kaggle.com/kaimiyazawa)
+- LeetCode: [roge_mega](https://leetcode.com/roge_mega/)
+- resume:   [resume.md](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume.md)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiMiyazawa&show_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiMiyazawa&hide_progress=true)  
