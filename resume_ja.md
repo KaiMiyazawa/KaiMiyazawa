@@ -13,18 +13,17 @@
 </div>
 
 ### 目次
-
-- 自己紹介
-- 経歴要約
-- 技術スキル／ソフトスキル
-  - 技術スキル
-  - ソフトスキル
-- 職務経歴
-- 自己PR
-- アウトプット
-- 資格
-- 趣味/特技
-- 経歴詳細
+- [自己紹介](#introduction)
+- [経歴要約](#overview)
+- [技術スキル／ソフトスキル](#skills)
+	- [技術スキル](#tech-skills)
+	- [ソフトスキル](#soft-skills)
+- [職務経歴](#work-history)
+- [自己PR](#self-pr)
+- [アウトプット](#output)
+- [資格](#qualification)
+- [趣味/特技](#hobby)
+- [経歴詳細](#history)
 
 ## 自己紹介 {#introduction}
 
