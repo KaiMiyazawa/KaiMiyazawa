@@ -13,17 +13,17 @@
 </div>
 
 ### 目次
-- [自己紹介](#introduction)
-- [経歴要約](#overview)
-- [技術スキル／ソフトスキル](#skills)
-	- [技術スキル](#tech-skills)
-	- [ソフトスキル](#soft-skills)
-- [職務経歴](#work-history)
-- [自己PR](#self-pr)
-- [アウトプット](#output)
-- [資格](#qualification)
-- [趣味/特技](#hobby)
-- [経歴詳細](#history)
+- [自己紹介](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B-introduction)
+- [経歴要約](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E7%B5%8C%E6%AD%B4%E8%A6%81%E7%B4%84-overview)
+- [技術スキル／ソフトスキル](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%B9%E3%82%AD%E3%83%AB-skills)
+	- [技術スキル](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%AD%E3%83%AB-tech-skills)
+	- [ソフトスキル](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E3%82%BD%E3%83%95%E3%83%88%E3%82%B9%E3%82%AD%E3%83%AB-soft-skills)
+- [職務経歴](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4-work-history)
+- [自己PR](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E8%87%AA%E5%B7%B1pr-self-pr)
+- [アウトプット](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E3%82%A2%E3%82%A6%E3%83%88%E3%83%97%E3%83%83%E3%83%88-output)
+- [資格](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E8%B3%87%E6%A0%BC-qualification)
+- [趣味/特技](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E8%B6%A3%E5%91%B3%E7%89%B9%E6%8A%80-hobby)
+- [経歴詳細](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/resume_ja.md#%E7%B5%8C%E6%AD%B4%E8%A9%B3%E7%B4%B0-history)
 
 ## 自己紹介 {#introduction}
 
