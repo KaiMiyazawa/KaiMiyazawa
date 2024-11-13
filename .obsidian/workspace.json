@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/certificate_jdla_e2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for certificate_jdla_e2024"
+              "title": "Backlinks"
             }
           },
           {
@@ -110,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/certificate_jdla_e2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from certificate_jdla_e2024"
+              "title": "Outgoing links"
             }
           },
           {
@@ -137,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/certificate_jdla_e2024.pdf"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of certificate_jdla_e2024"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -171,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96738e7722fea143",
+  "active": "0d522dbab6e55044",
   "lastOpenFiles": [
+    "images/certificate_jdla_e2024.pdf",
+    "Untitled.md",
     "resume_ja.md",
     "resume.md",
     "README.md",
@@ -185,7 +185,6 @@
     "images/certificate_ut_dl2024.pdf",
     "images/certificate_kaggle_introToML.png",
     "images/certificate_jdla_g2024.pdf",
-    "images/certificate_jdla_e2024.pdf",
     "images/logo"
   ]
 }
