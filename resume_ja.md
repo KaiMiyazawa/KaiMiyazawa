@@ -79,12 +79,11 @@
 - AtCoder : [https://atcoder.jp/users/ronge222](https://atcoder.jp/users/ronge222)
 
 ## 資格 {#qualification}
-
 - 実用英語技能検定２級（2021年2月取得）
 - 普通自動車免許（2023年4月取得）
-- G検定（2024年1月取得）[link](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/aEhCVjVwRjRUT1dQVU9BRHVQazNqUT09)
+- G検定（2024年1月取得）
 - 普通自動二輪免許（2024年3月取得）
-
+- E資格（2024年9月取得）
 ## 趣味/特技 {#hobby}
 
 - 読書
@@ -175,13 +174,35 @@ G検定 取得 [合格証](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/
 
 42Tokyoの入学試験 Piscineの試験官的な役割のLife Saverを務める
 
-#### 2024年 8月
+#### 2024年 8月4日
+
+大学のオープンキャンパスで展示しました。[log](https://github.com/KaiMiyazawa/AgentSpeaksToKnowYou)
+
+#### 2024年 8月8日 ~ 10日
 
 [REAZON HOLDINGS](https://reazon.jp/)さんの3daysインターンに参加しました。  
 ハッカソン形式で、簡単なデモを作りました。[log](https://github.com/KaiMiyazawa/DIS24-Team-B)
+
+#### 2024年 8月26日 ~ 30日
+
+finatextのデータサイエンティストインターンに参加しました。
+
+#### 2024年 9月8日 ~ 10日
+
+研究室のゼミでした。卒論の方向性が決まりました。
+
+#### 2024年 9月
+
+E資格に受かりました✌️
+
+#### 2024年 10月28日 ~ 11月25日
+
+キリンホールディングス × 42Tokyo インターン に参加しました。
+
 
 ---
 
 [ページのトップへ](#top)
 
 <!-- style -->
+
