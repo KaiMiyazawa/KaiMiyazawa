@@ -185,19 +185,35 @@ G検定 取得 [合格証](https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/
 
 #### 2024年 8月26日 ~ 30日
 
-finatextのデータサイエンティストインターンに参加しました。
+[finatextのデータサイエンティストインターン](https://hd.finatext.com/news/20240529/)に参加しました。
 
 #### 2024年 9月8日 ~ 10日
 
-研究室のゼミでした。卒論の方向性が決まりました。
+研究室のゼミ合宿でした。卒論の方向性が決まりました。
 
 #### 2024年 9月
 
-E資格に受かりました✌️
+E資格 取得 [合格証](images/certificate_jdla_g2024.pdf)
+
+#### 2024 10月19日 ~ 20日
+
+[SIG-FIN 2024](https://sigfin.org/?033)をオンライン視聴しました。
 
 #### 2024年 10月28日 ~ 11月25日
 
-キリンホールディングス × 42Tokyo インターン に参加しました。
+[キリンホールディングス × 42Tokyo インターン](https://42tokyo.jp/news/2024-12-24-5-08yni1g1/) に参加しました。
+
+#### 2025年 2月9日
+42Tokyoの課題 webservをクリア [log](https://github.com/KaiMiyazawa/42_webserv)
+
+#### 2025年 3月1日 ~ 2日
+[SIG-FIN 2025](https://sigfin.org/?034)をオンライン視聴しました。
+
+#### 2025年 3月 ~
+finatextで長期インターン開始
+
+#### 2025年 3月12日 ~ 15日
+NLP2025をオンライン視聴しました。
 
 
 ---
