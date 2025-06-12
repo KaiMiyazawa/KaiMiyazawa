@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🎓 I'm a student at 42Tokyo.
+- 🎓 I'm a student at [42Tokyo](https://42tokyo.jp/document/pdf/42tokyo_pamphlet.pdf).
 - 🏫 I'm a member of the Language Information Science Laboratory at the university.
 - 🌱 I’m currently learning ML, CS, NLP, Financial Engneering.
 - 📫 How to reach me: miyazawa.kai.nekochan222@gmail.com
@@ -26,4 +26,7 @@
 <!--[![kmiyazaw's 42 stats](https://badge42.coday.fr/api/v2/clyzgng2i7061701p46aykg1p4/stats?cursusId=21&coalitionId=308)](https://github.com/Coday-meric/badge42)  -->
 [![kmiyazaw's 42 stats](https://badge.mediaplus.ma/darkblue/kmiyazaw?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<img src="./images/general2024_1_small-100.jpg" width="300">
+<img src="./images/logo/general2024#1_small-100.jpg" width="300">
+
+<img src="./images/logo/engineer2024#2_small.jpg" width="300">
+
