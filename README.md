@@ -26,6 +26,7 @@
 <!--[![kmiyazaw's 42 stats](https://badge42.coday.fr/api/v2/clyzgng2i7061701p46aykg1p4/stats?cursusId=21&coalitionId=308)](https://github.com/Coday-meric/badge42)  -->
 [![kmiyazaw's 42 stats](https://badge.mediaplus.ma/darkblue/kmiyazaw?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<img src="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/logo/general2024%231_small-100.jpg" width="300">
-
-<img src="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/logo/engineer2024%232_small.jpg" width="300">
+<div align="center">
+  <img src="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/logo/general2024%231_small-100.jpg" width="300" style="margin:0 10px;vertical-align:middle;">
+  <img src="https://github.com/KaiMiyazawa/KaiMiyazawa/blob/main/images/logo/engineer2024%232_small.jpg" width="300" style="margin:0 10px;vertical-align:middle;">
+</div>
