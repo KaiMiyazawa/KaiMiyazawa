@@ -1,0 +1,19 @@
+<div align="center">
+<h1> Kai Miyazawa </h1>
+</div>
+
+### Hi there 👋
+<!--
+- 🔭 I’m currently working on ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- 🎓 I'm a student of [42Tokyo](https://42tokyo.jp/document/pdf/42tokyo_pamphlet.pdf).
+- 🎓 I'm a student of Waseda university.
+- 🏫 I'm a member of the 'Language Information Science Laboratory' at the university.
+- 🌱 I’m currently learning ML, CS, NLP, Financial Engneering.
+<!--[![kmiyazaw's 42 stats](https://badge42.coday.fr/api/v2/clyzgng2i7061701p46aykg1p4/stats?cursusId=21&coalitionId=308)](https://github.com/Coday-meric/badge42)  -->
+[![kmiyazaw's 42 stats](https://badge.mediaplus.ma/darkblue/kmiyazaw?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
