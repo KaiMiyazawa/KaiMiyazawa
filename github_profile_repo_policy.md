@@ -23,10 +23,22 @@ This repository is the source of truth for my GitHub profile presentation.
 
 ## Content Allocation
 
-- Put the shortest public summary in `README.md`.
-- Put longer resume-style information in files such as `resume_open_en.md` and `resume_open_ja.md`.
-- Put certificates, logos, and visual assets under `images/`.
+- Put the shortest public summary in `README.md`. This is the only substantive file that is published.
 - Add new files only when they support the profile clearly and are worth keeping in a public repository.
+
+### Files kept locally but not published
+
+The following are tracked in `.gitignore` and are **not** part of this public repository:
+
+- `resume_open_en.md`, `resume_open_ja.md`, `resume_ai_prompt_writer_en.md`, `resume_ai_prompt_writer_en.pdf`
+- `images/` (certificates, logos, photos)
+
+They are drafts held back until the public/private split has been reviewed. That review is
+planned for shortly before job hunting begins. Until then, treat `README.md` as the sole
+public surface of this repository.
+
+The source of truth for career history is not in this repository. Resume drafts here are
+derived from it, and should be regenerated rather than edited in place when the split is done.
 
 ## Writing Guidelines
 
@@ -41,6 +53,8 @@ This repository is the source of truth for my GitHub profile presentation.
 - Before editing `README.md`, decide whether the information belongs on the profile top page or in a supporting document.
 - If a change makes `README.md` longer, confirm that the added information improves profile comprehension.
 - When adding certificates or resume updates, keep filenames and structure consistent.
+- Before publishing anything currently held back in `.gitignore`, review it for information
+  that should stay private.
 - Review the repository as a public artifact, not just a private notes space.
 
 ## Operating Principle
