@@ -26,18 +26,14 @@ This repository is the source of truth for my GitHub profile presentation.
 - Put the shortest public summary in `README.md`. This is the only substantive file that is published.
 - Add new files only when they support the profile clearly and are worth keeping in a public repository.
 
-### Files kept locally but not published
+### Resume drafts and certificates
 
-The following are tracked in `.gitignore` and are **not** part of this public repository:
+Resume drafts, certificates, and images are **not** kept in this repository.
+They live in my private notes repository, which includes this repository as a submodule.
+They will be reviewed for public/private split shortly before job hunting begins.
+Until then, treat `README.md` as the sole public surface of this repository.
 
-- `resume_open_en.md`, `resume_open_ja.md`, `resume_ai_prompt_writer_en.md`, `resume_ai_prompt_writer_en.pdf`
-- `images/` (certificates, logos, photos)
-
-They are drafts held back until the public/private split has been reviewed. That review is
-planned for shortly before job hunting begins. Until then, treat `README.md` as the sole
-public surface of this repository.
-
-The source of truth for career history is not in this repository. Resume drafts here are
+The source of truth for career history is not in this repository. Resume drafts are
 derived from it, and should be regenerated rather than edited in place when the split is done.
 
 ## Writing Guidelines
