@@ -4,31 +4,31 @@
 
 Computer Science x LLMs x Finance
 
-Undergraduate-to-graduate student at Waseda University and a student at 42Tokyo.
-I build things around software, machine learning, language technology, and AI agents.
+Graduate student at Waseda University, currently on a leave of absence.<br>
+42Tokyo Common Core completed in June 2025.
 
 [GitHub](https://github.com/KaiMiyazawa) | [LeetCode](https://leetcode.com/u/roge_mega) | [AtCoder](https://atcoder.jp/users/ronge222)
 
 </div>
 
-## About Me
+## What I Work On
 
-- Graduate student at Waseda University
-- Student at 42Tokyo
-- Interested in LLMs, NLP, AI agents, and financial applications of machine learning
-- Learning by building, shipping, and iterating
-
-## Current Focus
-
-- LLM-based systems and agent workflows
-- Practical software engineering through 42Tokyo projects
-- Machine learning and data work related to finance
+- LLM agents, Python backend development, and data processing
+- Systems programming in C / C++ and team development
+- Financial applications of machine learning
 
 ## Selected Background
 
-- Founder of a university computer science club
-- Research experience in language information science
-- Internship experience in AI-related engineering work
+- AI engineering intern at Nowcast since March 2025
+- Undergraduate research on LLM-based financial market trading agents
+- Founder of the Tokorozawa Computer Study Club
+- Teaching assistant experience in data science and Python programming
+
+## Selected Projects
+
+- [minishell](https://github.com/KaiMiyazawa/42_minishell): a shell implemented in C
+- [webserv](https://github.com/KaiMiyazawa/42_webserv): an HTTP server implemented in C++
+- [blokus_solver](https://github.com/KaiMiyazawa/blokus_solver): SMART SCAPE CUP hackathon runner-up, May 2024
 
 ## 42Tokyo
 

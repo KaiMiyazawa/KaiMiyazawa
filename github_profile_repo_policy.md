@@ -30,11 +30,14 @@ This repository is the source of truth for my GitHub profile presentation.
 
 Resume drafts, certificates, and images are **not** kept in this repository.
 They live in my private notes repository, which includes this repository as a submodule.
-They will be reviewed for public/private split shortly before job hunting begins.
-Until then, treat `README.md` as the sole public surface of this repository.
+The public/private split was reviewed on October 4, 2026. Resume text was updated
+for external use, while certificates and personal details remain private.
+Treat `README.md` as the public profile surface; resume publication is a separate decision.
+Do not include company ownership or commissioned client work in this profile.
+Keep the existing 42Tokyo badge and its destination link.
 
 The source of truth for career history is not in this repository. Resume drafts are
-derived from it, and should be regenerated rather than edited in place when the split is done.
+derived from it and maintained in the private notes repository.
 
 ## Writing Guidelines
 
