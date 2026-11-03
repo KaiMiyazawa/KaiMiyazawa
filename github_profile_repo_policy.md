@@ -6,7 +6,7 @@ This repository is the source of truth for my GitHub profile presentation.
 
 - Keep this repository focused on a clear self-introduction that is easy to understand from the GitHub profile page.
 - Treat `README.md` as the public landing page shown at the top of `github.com/KaiMiyazawa`.
-- Keep supporting materials such as resumes, certificates, and images in this repository only when they strengthen that public profile.
+- Resumes, certificates, and images live in the private notes repository, not here.
 
 ## Branch Strategy
 
@@ -24,7 +24,7 @@ This repository is the source of truth for my GitHub profile presentation.
 ## Content Allocation
 
 - Put the shortest public summary in `README.md`. This is the only substantive file that is published.
-- Add new files only when they support the profile clearly and are worth keeping in a public repository.
+- Do not add supporting files (resumes, certificates, images); the profile consists of `README.md` and this policy file.
 
 ### Resume drafts and certificates
 
@@ -49,13 +49,11 @@ derived from it and maintained in the private notes repository.
 
 ## Update Rules
 
-- Before editing `README.md`, decide whether the information belongs on the profile top page or in a supporting document.
+- Before editing `README.md`, decide whether the information belongs on the profile top page or in the private notes repository.
 - If a change makes `README.md` longer, confirm that the added information improves profile comprehension.
-- When adding certificates or resume updates, keep filenames and structure consistent.
-- Before publishing anything currently held back in `.gitignore`, review it for information
-  that should stay private.
+- Before adding any new file, review it as a public artifact.
 - Review the repository as a public artifact, not just a private notes space.
 
 ## Operating Principle
 
-The repository should function as a well-maintained public profile repository, with `README.md` as the front page and the other files as supporting evidence.
+The repository should function as a well-maintained public profile repository, with `README.md` as the front page; this policy file is the only other document.
